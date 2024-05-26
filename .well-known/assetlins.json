@@ -1,0 +1,45 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nz.co.twodegreesmobile.comptelfwd.smpl.dev",
+      "sha256_cert_fingerprints":
+      ["79:9C:07:16:FA:F5:3C:0C:44:26:DD:9E:DA:38:8B:C4:C4:F5:4F:EC:82:04:7B:49:87:64:1D:54:23:78:D6:51"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nz.co.twodegreesmobile.comptelfwd.smpl.storybook",
+      "sha256_cert_fingerprints":
+      ["79:9C:07:16:FA:F5:3C:0C:44:26:DD:9E:DA:38:8B:C4:C4:F5:4F:EC:82:04:7B:49:87:64:1D:54:23:78:D6:51"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nz.co.twodegreesmobile.comptelfwd.smpl.test",
+      "sha256_cert_fingerprints":
+      ["83:0B:1E:99:2F:F0:89:5A:85:A2:73:7C:B2:09:4B:45:AF:99:EC:11:32:4E:C8:F0:3C:01:94:5A:4B:A7:11:99"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nz.co.twodegreesmobile.comptelfwd.smpl.preprod",
+      "sha256_cert_fingerprints":
+      ["83:0B:1E:99:2F:F0:89:5A:85:A2:73:7C:B2:09:4B:45:AF:99:EC:11:32:4E:C8:F0:3C:01:94:5A:4B:A7:11:99"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nz.co.twodegreesmobile.comptelfwd.smpl",
+      "sha256_cert_fingerprints":
+      ["DA:CA:70:CE:42:84:AB:C0:00:33:BD:9C:9C:04:29:32:8F:2C:21:1C:B4:1F:87:F3:7F:54:D2:2C:AD:7D:96:1C"]
+    }
+  }]
