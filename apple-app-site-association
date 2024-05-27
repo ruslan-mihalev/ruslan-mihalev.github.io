@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details" : [
+      {
+        "appIDs": [
+	        "UF2M7KY5R2.nz.co.twodegrees.dataclock.dev",
+	        "UF2M7KY5R2.nz.co.twodegrees.dataclock.storybook",
+	        "UF2M7KY5R2.nz.co.twodegrees.dataclock.test",
+	        "UF2M7KY5R2.nz.co.twodegrees.dataclock.preprod",
+	        "UF2M7KY5R2.nz.co.twodegrees.dataclock"
+	        
+        ],
+        "paths": ["/data-clock*"]
+      }
+    ]
+  }
+}
